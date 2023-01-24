@@ -1,6 +1,3 @@
-# OP23 Plan
-
-_Tietoevry DevOps GitHub demo_
 
 {% include_relative 01_Skills_development.md %}
 
